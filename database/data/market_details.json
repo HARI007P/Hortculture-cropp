@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "name": "Delhi Agricultural Market",
+    "location": "Delhi, India",
+    "contact": "011-12345678",
+    "image": "images/markets/1.jpg",
+    "description": "The Delhi Agricultural Market is one of the largest wholesale markets for vegetables, fruits, and other agricultural products in the region.",
+    "opening_hours": "Mon-Sun: 6 AM - 10 PM",
+    "facilities": "Cold Storage, Parking, Security"
+  },
+  {
+    "id": 2,
+    "name": "Mumbai Wholesale Market",
+    "location": "Mumbai, India",
+    "contact": "022-98765432",
+    "image": "images/markets/2.jpg",
+    "description": "A bustling market offering a wide variety of fruits, vegetables, and other fresh produce to the people of Mumbai.",
+    "opening_hours": "Mon-Sat: 5 AM - 9 PM, Closed on Sundays",
+    "facilities": "Cold Storage, Transport Services, ATM"
+  },
+  {
+    "id": 3,
+    "name": "Kolkata Vegetable Market",
+    "location": "Kolkata, India",
+    "contact": "033-87654321",
+    "image": "images/markets/3.jpg",
+    "description": "The Kolkata Vegetable Market is known for its fresh produce and variety of local and organic vegetables.",
+    "opening_hours": "Mon-Sun: 6 AM - 8 PM",
+    "facilities": "Cold Storage, Parking, Free Wi-Fi"
+  },
+  {
+    "id": 4,
+    "name": "Chennai Fruit Market",
+    "location": "Chennai, India",
+    "contact": "044-23456789",
+    "image": "images/markets/4.jpg",
+    "description": "A vibrant market in Chennai where fresh fruits from all over the country are available at reasonable prices.",
+    "opening_hours": "Mon-Sun: 7 AM - 9 PM",
+    "facilities": "Cold Storage, Parking, Online Ordering"
+  },
+  {
+    "id": 5,
+    "name": "Bangalore Organic Market",
+    "location": "Bangalore, India",
+    "contact": "080-11223344",
+    "image": "images/markets/5.jpg",
+    "description": "Bangalore Organic Market specializes in organic produce, offering everything from fruits to grains, with a focus on sustainability.",
+    "opening_hours": "Mon-Sun: 8 AM - 7 PM",
+    "facilities": "Cold Storage, Parking, Organic Certification"
+  },
+  {
+    "id": 6,
+    "name": "Hyderabad Farmers Market",
+    "location": "Hyderabad, India",
+    "contact": "040-22334455",
+    "image": "images/markets/6.jpg",
+    "description": "Hyderabad Farmers Market is a popular spot for local farmers to sell their fresh produce directly to customers.",
+    "opening_hours": "Mon-Sat: 6 AM - 10 PM, Closed on Sundays",
+    "facilities": "Cold Storage, Parking, Food Court"
+  },
+  {
+    "id": 7,
+    "name": "Pune Agricultural Market",
+    "location": "Pune, India",
+    "contact": "020-44556677",
+    "image": "images/markets/7.jpg",
+    "description": "The Pune Agricultural Market offers a variety of agricultural products ranging from vegetables to flowers.",
+    "opening_hours": "Mon-Sun: 6 AM - 9 PM",
+    "facilities": "Cold Storage, ATM, Parking"
+  },
+  {
+    "id": 8,
+    "name": "Ahmedabad Spice Market",
+    "location": "Ahmedabad, India",
+    "contact": "079-55667788",
+    "image": "images/markets/8.jpg",
+    "description": "Known for its variety of spices, the Ahmedabad Spice Market is a key destination for culinary enthusiasts.",
+    "opening_hours": "Mon-Sun: 7 AM - 8 PM",
+    "facilities": "Cold Storage, Parking, Free Wi-Fi"
+  },
+  {
+    "id": 9,
+    "name": "Jaipur Wholesale Market",
+    "location": "Jaipur, India",
+    "contact": "0141-66778899",
+    "image": "images/markets/9.jpg",
+    "description": "The Jaipur Wholesale Market is famous for its large variety of wholesale goods, including fruits, vegetables, and spices.",
+    "opening_hours": "Mon-Sat: 6 AM - 10 PM, Closed on Sundays",
+    "facilities": "Cold Storage, Transport Services, Parking"
+  },
+  {
+    "id": 10,
+    "name": "Chandigarh Organic Market",
+    "location": "Chandigarh, India",
+    "contact": "0172-33445566",
+    "image": "images/markets/10.jpg",
+    "description": "Chandigarh Organic Market focuses on fresh, locally grown organic produce, providing healthier alternatives to regular produce.",
+    "opening_hours": "Mon-Sun: 8 AM - 6 PM",
+    "facilities": "Cold Storage, Parking, Organic Certification"
+  },
+  {
+    "id": 11,
+    "name": "Lucknow Horticulture Market",
+    "location": "Lucknow, India",
+    "contact": "0522-44556677",
+    "image": "images/markets/11.jpg",
+    "description": "A key market for horticulture products, including vegetables, fruits, and flowers, catering to the needs of the people of Lucknow.",
+    "opening_hours": "Mon-Sun: 7 AM - 8 PM",
+    "facilities": "Cold Storage, Parking, Free Wi-Fi"
+  },
+  {
+    "id": 12,
+    "name": "Surat Fruit and Vegetable Market",
+    "location": "Surat, India",
+    "contact": "0261-12345678",
+    "image": "images/markets/12.jpg",
+    "description": "Surat Fruit and Vegetable Market offers a wide variety of fresh fruits and vegetables sourced from local farms.",
+    "opening_hours": "Mon-Sun: 5 AM - 9 PM",
+    "facilities": "Cold Storage, Transport Services, Parking"
+  },
+  {
+    "id": 13,
+    "name": "Indore Spice and Grain Market",
+    "location": "Indore, India",
+    "contact": "0731-87654321",
+    "image": "images/markets/13.jpg",
+    "description": "This market is famous for its rich variety of spices and grains, making it a popular destination for culinary enthusiasts.",
+    "opening_hours": "Mon-Sun: 6 AM - 10 PM",
+    "facilities": "Cold Storage, Parking, Free Wi-Fi"
+  },
+  {
+    "id": 14,
+    "name": "Vadodara Agricultural Market",
+    "location": "Vadodara, India",
+    "contact": "0265-55667788",
+    "image": "images/markets/14.jpg",
+    "description": "Vadodara Agricultural Market offers a wide range of agricultural produce, from fresh vegetables to grains.",
+    "opening_hours": "Mon-Sun: 7 AM - 9 PM",
+    "facilities": "Cold Storage, Parking, Security"
+  },
+  {
+    "id": 15,
+    "name": "Nagpur Wholesale Vegetable Market",
+    "location": "Nagpur, India",
+    "contact": "0712-33445566",
+    "image": "images/markets/15.jpg",
+    "description": "This wholesale vegetable market is one of the largest in Nagpur, offering a vast variety of fresh vegetables.",
+    "opening_hours": "Mon-Sun: 5 AM - 9 PM",
+    "facilities": "Cold Storage, Transport Services, Parking"
+  },
+  {
+    "id": 16,
+    "name": "Coimbatore Horticulture Market",
+    "location": "Coimbatore, India",
+    "contact": "0422-11223344",
+    "image": "images/markets/16.jpg",
+    "description": "The Coimbatore Horticulture Market offers a wide variety of flowers, fruits, and vegetables for the local community.",
+    "opening_hours": "Mon-Sun: 7 AM - 8 PM",
+    "facilities": "Cold Storage, Parking, ATM"
+  },
+  {
+    "id": 17,
+    "name": "Kanpur Grains Market",
+    "location": "Kanpur, India",
+    "contact": "0512-22334455",
+    "image": "images/markets/17.jpg",
+    "description": "Kanpur Grains Market is a popular market for wholesale grains and cereals.",
+    "opening_hours": "Mon-Sat: 6 AM - 10 PM, Closed on Sundays",
+    "facilities": "Cold Storage, Transport Services, Parking"
+  },
+  {
+    "id": 18,
+    "name": "Bhopal Organic Produce Market",
+    "location": "Bhopal, India",
+    "contact": "0755-33445566",
+    "image": "images/markets/18.jpg",
+    "description": "Bhopal Organic Produce Market specializes in organic fruits, vegetables, and grains.",
+    "opening_hours": "Mon-Sun: 7 AM - 6 PM",
+    "facilities": "Cold Storage, Parking, Organic Certification"
+  },
+  {
+    "id": 19,
+    "name": "Patna Fruits and Vegetables Market",
+    "location": "Patna, India",
+    "contact": "0612-44556677",
+    "image": "images/markets/19.jpg",
+    "description": "The Patna Fruits and Vegetables Market offers fresh produce sourced from local farms and nearby regions.",
+    "opening_hours": "Mon-Sun: 6 AM - 10 PM",
+    "facilities": "Cold Storage, Parking, Free Wi-Fi"
+  }
+]

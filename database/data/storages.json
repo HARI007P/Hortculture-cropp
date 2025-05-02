@@ -1,0 +1,145 @@
+[
+    {
+      "id": 1,
+      "name": "Cold Storage - phagwara",
+      "location": "Phagwara",
+      "capacity": "100 Tons",
+      "image": "images/storages/phagwara.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cold Storage - Jalandhar",
+      "location": "Jalandhar",
+      "capacity": "75 Tons",
+      "image": "images/storages/1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Cold Storage - Mumbai",
+      "location": "Mumbai",
+      "capacity": "1500 Tons",
+      "image": "images/storages/2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Cold Storage - Bangalore",
+      "location": "Bangalore",
+      "capacity": "2000 Tons",
+      "image": "images/storages/3.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Cold Storage - Hyderabad",
+      "location": "Hyderabad",
+      "capacity": "1200 Tons",
+      "image": "images/storages/4.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Cold Storage - Chennai",
+      "location": "Chennai",
+      "capacity": "1800 Tons",
+      "image": "images/storages/5.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Cold Storage - Delhi",
+      "location": "Delhi",
+      "capacity": "2500 Tons",
+      "image": "images/storages/6.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Cold Storage - Kolkata",
+      "location": "Kolkata",
+      "capacity": "900 Tons",
+      "image": "images/storages/7.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Cold Storage - Ahmedabad",
+      "location": "Ahmedabad",
+      "capacity": "800 Tons",
+      "image": "images/storages/8.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Cold Storage - Pune",
+      "location": "Pune",
+      "capacity": "1300 Tons",
+      "image": "images/storages/9.jpg"
+    },
+   
+        {
+          "id": 11,
+          "name": "Cold Storage - Jaipur",
+          "location": "Jaipur",
+          "capacity": "850 Tons",
+          "image": "images/storages/10.jpg"
+        },
+        {
+          "id": 12,
+          "name": "Cold Storage - Surat",
+          "location": "Surat",
+          "capacity": "950 Tons",
+          "image": "images/storages/11.jpg"
+        },
+        {
+          "id": 13,
+          "name": "Cold Storage - Nagpur",
+          "location": "Nagpur",
+          "capacity": "1200 Tons",
+          "image": "images/storages/12.jpg"
+        },
+        {
+          "id": 14,
+          "name": "Cold Storage - Kochi",
+          "location": "Kochi",
+          "capacity": "700 Tons",
+          "image": "images/storages/13.jpg"
+        },
+        {
+          "id": 15,
+          "name": "Cold Storage - Bhopal",
+          "location": "Bhopal",
+          "capacity": "1050 Tons",
+          "image": "images/storages/14.jpg"
+        },
+        {
+          "id": 16,
+          "name": "Cold Storage - Visakhapatnam",
+          "location": "Visakhapatnam",
+          "capacity": "1400 Tons",
+          "image": "images/storages/15.jpg"
+        },
+        {
+          "id": 17,
+          "name": "Cold Storage - Chandigarh",
+          "location": "Chandigarh",
+          "capacity": "650 Tons",
+          "image": "images/storages/16.jpg"
+        },
+        {
+          "id": 18,
+          "name": "Cold Storage - Guwahati",
+          "location": "Guwahati",
+          "capacity": "550 Tons",
+          "image": "images/storages/17.jpg"
+        },
+        {
+          "id": 19,
+          "name": "Cold Storage - Bhubaneswar",
+          "location": "Bhubaneswar",
+          "capacity": "900 Tons",
+          "image": "images/storages/18.jpg"
+        },
+        {
+          "id": 20,
+          "name": "Cold Storage - Indore",
+          "location": "Indore",
+          "capacity": "1300 Tons",
+          "image": "images/storages/19.jpg"
+        }
+
+      
+  ]

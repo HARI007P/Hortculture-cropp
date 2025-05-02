@@ -1,0 +1,308 @@
+[
+    {
+      "id": 1,
+      "name": "Tomato",
+      "type": "Vegetable",
+      "value_addition": "Tomato Puree",
+      "price": "20",
+      "image": "images/crops/tomato.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mango",
+      "type": "Fruit",
+      "value_addition": "Mango Pulp",
+      "price": "60",
+      "image": "images/crops/mango.jpg"
+    },
+    
+    {
+      "id": 5,
+      "name": "Potato",
+      "type": "Vegetable",
+      "value_addition": "Potato Chips",
+      "price": "15",
+      "image": "images/crops/potato.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Onion",
+      "type": "Vegetable",
+      "value_addition": "Onion Powder",
+      "price": "10",
+      "image": "images/crops/onion.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Barley",
+      "type": "Cereal",
+      "value_addition": "Barley Flour",
+      "price": "20",
+      "image": "images/crops/barley.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Mustard",
+      "type": "Oilseed",
+      "value_addition": "Mustard Oil",
+      "price": "50",
+      "image": "images/crops/mustard.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Soybean",
+      "type": "Oilseed",
+      "value_addition": "Soybean Oil",
+      "price": "55",
+      "image": "images/crops/soyabean.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Sugarcane",
+      "type": "Sugar Crop",
+      "value_addition": "Sugar",
+      "price": "40",
+      "image": "images/crops/sugarcane.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Chickpea",
+      "type": "Pulse",
+      "value_addition": "Chickpea Flour",
+      "price": "35",
+      "image": "images/crops/chickpea.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Pea",
+      "type": "Vegetable",
+      "value_addition": "Frozen Peas",
+      "price": "18",
+      "image": "images/crops/pea.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Cotton",
+      "type": "Fiber Crop",
+      "value_addition": "Cotton Yarn",
+      "price": "70",
+      "image": "images/crops/cotton.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Groundnut",
+      "type": "Oilseed",
+      "value_addition": "Groundnut Oil",
+      "price": "65",
+      "image": "images/crops/groundnut.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Ginger",
+      "type": "Spice",
+      "value_addition": "Ginger Powder",
+      "price": "80",
+      "image": "images/crops/ginger.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Garlic",
+      "type": "Spice",
+      "value_addition": "Garlic Paste",
+      "price": "75",
+      "image": "images/crops/garlic.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Banana",
+      "type": "Fruit",
+      "value_addition": "Banana Chips",
+      "price": "25",
+      "image": "images/crops/banana.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Pineapple",
+      "type": "Fruit",
+      "value_addition": "Pineapple Slices",
+      "price": "45",
+      "image": "images/crops/pineapple.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Apple",
+      "type": "Fruit",
+      "value_addition": "Apple Juice",
+      "price": "85",
+      "image": "images/crops/apple.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Grapes",
+      "type": "Fruit",
+      "value_addition": "Raisins",
+      "price": "55",
+      "image": "images/crops/grapes.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Chili",
+      "type": "Spice",
+      "value_addition": "Chili Powder",
+      "price": "60",
+      "image": "images/crops/chili.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Turmeric",
+      "type": "Spice",
+      "value_addition": "Turmeric Powder",
+      "price": "70",
+      "image": "images/crops/turmeric.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Cardamom",
+      "type": "Spice",
+      "value_addition": "Ground Cardamom",
+      "price": "150",
+      "image": "images/crops/cardamom.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Black Pepper",
+      "type": "Spice",
+      "value_addition": "Black Pepper Powder",
+      "price": "200",
+      "image": "images/crops/black-pepper.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Coconut",
+      "type": "Fruit",
+      "value_addition": "Coconut Oil",
+      "price": "40",
+      "image": "images/crops/coconut.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Lemon",
+      "type": "Fruit",
+      "value_addition": "Lemon Juice",
+      "price": "15",
+      "image": "images/crops/leamon.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Cabbage",
+      "type": "Vegetable",
+      "value_addition": "Cabbage Powder",
+      "price": "20",
+      "image": "images/crops/cabbage.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Carrot",
+      "type": "Vegetable",
+      "value_addition": "Carrot Juice",
+      "price": "25",
+      "image": "images/crops/carrot.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Spinach",
+      "type": "Vegetable",
+      "value_addition": "Spinach Powder",
+      "price": "30",
+      "image": "images/crops/spinash.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Lettuce",
+      "type": "Vegetable",
+      "value_addition": "Lettuce Wraps",
+      "price": "50",
+      "image": "images/crops/lettuce.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Cauliflower",
+      "type": "Vegetable",
+      "value_addition": "Cauliflower Powder",
+      "price": "35",
+      "image": "images/crops/cauliflower.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Avocado",
+      "type": "Fruit",
+      "value_addition": "Avocado Oil",
+      "price": "120",
+      "image": "images/crops/avocado.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Pomegranate",
+      "type": "Fruit",
+      "value_addition": "Pomegranate Juice",
+      "price": "75",
+      "image": "images/crops/pomegranate.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Papaya",
+      "type": "Fruit",
+      "value_addition": "Papaya Pulp",
+      "price": "45",
+      "image": "images/crops/papaya.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Watermelon",
+      "type": "Fruit",
+      "value_addition": "Watermelon Juice",
+      "price": "30",
+      "image": "images/crops/watermelon.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Tomato",
+      "type": "Vegetable",
+      "value_addition": "Tomato Ketchup",
+      "price": "25",
+      "image": "images/crops/tomato.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Brinjal",
+      "type": "Vegetable",
+      "value_addition": "Brinjal Pickle",
+      "price": "40",
+      "image": "images/crops/brinjal.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Cucumber",
+      "type": "Vegetable",
+      "value_addition": "Cucumber Pickle",
+      "price": "20",
+      "image": "images/crops/cucumber.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Chili Pepper",
+      "type": "Spice",
+      "value_addition": "Chili Sauce",
+      "price": "60",
+      "image": "images/crops/chillipepper.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Sweet Potato",
+      "type": "Vegetable",
+      "value_addition": "Sweet Potato Chips",
+      "price": "50",
+      "image": "images/crops/sweat-potato.jpg"
+    }
+  ]
+  
